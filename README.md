@@ -6,8 +6,7 @@
 - Quick Sort
 - Merge Sort
 
-### This is built using HTML, CSS, JavaScript <br/>
+### This is built using HTML, CSS, BOOTSTRAP and JavaScript <br/>
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+https://user-images.githubusercontent.com/57895889/181431200-fc09e0e9-019d-4438-9ae1-6eba5a73fd75.mp4
+

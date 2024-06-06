@@ -7,7 +7,10 @@ body {
 
 h1 {
     color: black;
+<<<<<<< HEAD
     font-weight: 700;
+=======
+>>>>>>> f5ff19c2e7533dfbe2305925920da51053367ce2
 }
 
 .flex-container{
@@ -39,8 +42,12 @@ h1 {
 }
 
 .btnn {
+<<<<<<< HEAD
     border: none;
     background-color: #bdc3c7;
+=======
+    background-color: rgb(189, 181, 181);
+>>>>>>> f5ff19c2e7533dfbe2305925920da51053367ce2
     color: rgb(4, 0, 255);
     font-weight: bold;
 }
@@ -48,4 +55,8 @@ h1 {
 .col {
     color: black;
     font-weight: bold;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f5ff19c2e7533dfbe2305925920da51053367ce2
